@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/android-app",
+      "destination": "https://play.google.com/store/apps/details?id=live.iqfareez.waktusolatmalaysia&hl=en&gl=US",
+      "permanent": true
+    }
+  ]
+}
