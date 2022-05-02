@@ -96,10 +96,6 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/iqfareez/app_waktu_solat_malaysia',
               },
