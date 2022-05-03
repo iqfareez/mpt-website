@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Malaysia Prayer Time',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Modern and easy to use',
   url: 'https://mywaktusolat.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -75,11 +75,11 @@ const config = {
               },
               {
                 label: 'Tips and Tricks',
-                to: '/docs/tips-trick',
+                to: '/docs/tips-trick/show-other-prayer-times',
               },
               {
                 label: 'Troubleshooting',
-                to: '/docs/troubleshoot',
+                to: '/docs/troubleshoot/notifications',
               },
             ],
           },
