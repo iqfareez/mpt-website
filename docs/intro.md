@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Malaysia Prayer Time app in less than 5 minutes**.
 
 ## Getting Started
+
+To learn about what feature that mpt offers, read the **tips and tricks**. If you encountered any difficulties, go to the **troubleshooting** section.
