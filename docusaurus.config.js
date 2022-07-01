@@ -84,17 +84,12 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'More',
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus/iqfareez',
+                href: 'https://twitter.com/iqfareez',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/iqfareez/app_waktu_solat_malaysia',

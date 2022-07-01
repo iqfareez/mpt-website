@@ -19,6 +19,6 @@ Imsak, Sunrise and Dhuha time are always shown in Full Timetable page.
 
 ## GIF animation
 
-![Show other pryer times gif](/img/tips/show-other-prayer-times.gif)
+![Show other prayer times gif](/img/tips/show-other-prayer-times/show-other-prayer-times.gif)
 
 _Originally posted at https://telegra.ph/Show-Imsak-Dhuha-and-Syuruk-time-04-16_
