@@ -74,8 +74,8 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Tips and Tricks',
-                to: '/docs/tips-trick/show-other-prayer-times',
+                label: 'Features',
+                to: '/docs/features/show-other-prayer-times',
               },
               {
                 label: 'Troubleshooting',
