@@ -15,9 +15,16 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className="button button--secondary button--lg margin-bottom--sm"
             href='https://play.google.com/store/apps/details?id=live.iqfareez.waktusolatmalaysia'>
             Get app on Google Play Store
+          </Link>
+        </div>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg margin-bottom--sm"
+            to='docs/intro'>
+            Read docs
           </Link>
         </div>
       </div>

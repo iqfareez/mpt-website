@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_mobile_application_re_13u3.svg').default,
     description: (
       <>
         MPT was designed from the the ground up to be simple
@@ -15,11 +15,20 @@ const FeatureList = [
   },
   {
     title: 'Features packed',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_apps_re_ienc.svg').default,
     description: (
       <>
         Aside of a prayer time app, MPT contains a lot of useful features
         that shall increase your Muslim productivity
+      </>
+    ),
+  },
+  {
+    title: 'Active development',
+    Svg: require('@site/static/img/undraw_futuristic_interface_re_0cm6.svg').default,
+    description: (
+      <>
+        Expect new features and bug fixes for a long time to come. (Inshallah)
       </>
     ),
   },
