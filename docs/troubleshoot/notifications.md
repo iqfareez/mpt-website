@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## What is it about?
 
-For some OEMs (eg: Xiaomi, Oppo etc.), implements a _little too aggresive_ battery optimization feature. Crucial features like **Autostart** (some OEMs called it **Auto-launch**) for some apps are disabled by default. In that case, prayer notification can only be shown for a while, or worse, cannot be shown to you altogether.
+Some OEMs (eg: Xiaomi, Oppo etc.), implement a _little_ too aggressive\_ battery optimization feature. Crucial features like **Autostart** (some OEMs called it **Auto-launch**) for some apps are disabled by default. In that case, prayer notification can only be shown for a while, or worse, cannot be shown to you altogether.
 
 :::note
 

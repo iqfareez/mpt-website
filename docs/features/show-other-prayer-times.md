@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Shows other prayer times
 
-By default, the app only shows five main prayer time. However, you can choose to show other prayer times, ie **Imsak, Sunrise (Syuruk), & Dhuha** easily.
+By default, the app only shows five main prayer times. However, you can choose to show other prayer times, ie **Imsak, Sunrise (Syuruk), & Dhuha** easily.
 
 ## Follow the simple steps below
 

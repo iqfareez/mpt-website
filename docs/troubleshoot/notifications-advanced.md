@@ -8,7 +8,7 @@ To go to this screen, navigate to **Menu > Notification Setting**.
 
 ## Limit notification scheduling
 
-By default, the app will schedule the notification until the end of the month. This scheduling process is expensive since it has to process for too many days. It may cause a stutter in the app for certain lower end devices. Enable this on will limit scheduling up to 7 days only.
+By default, the app will schedule the notification until the end of the month. This scheduling process is expensive since it has to process for too many days. It may cause a stutter in the app for certain lower-end devices. Enabling this will limit scheduling up to 7 days only.
 
 ## Force rescheduling notification
 

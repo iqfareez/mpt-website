@@ -12,7 +12,7 @@ Quick actions (aka [App Shortcuts](https://developer.android.com/guide/topics/ui
 
 Each of the actions can be **split into its individual shortcuts**. Tap and hold one of the actions and drop it on the home screen.
 
-Video demonstration is provided below:
+A video demonstration is provided below:
 
 :::note
 
