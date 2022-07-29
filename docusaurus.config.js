@@ -84,6 +84,19 @@ const config = {
             ],
           },
           {
+            title: 'Legalese',
+            items: [
+              {
+                label: 'Privacy Policy',
+                to: '/privacy-policy',
+              },
+              {
+                label: 'Terms & Conditions',
+                to: '/terms-and-conditions',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
