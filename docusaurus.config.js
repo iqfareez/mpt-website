@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'iqfareez', // Usually your GitHub org/user name.
   projectName: 'app_waktu_solat_malaysia', // Usually your repo name.
-
   presets: [
     [
       'classic',
