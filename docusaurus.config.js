@@ -57,7 +57,12 @@ const config = {
           },
           {
             href: 'https://waktusolat.web.app',
-            label: 'Open Web App',
+            label: 'Web App',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/iqfareez/app_waktu_solat_malaysia',
+            label: 'GitHub',
             position: 'right',
           },
         ],
@@ -99,17 +104,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/iqfareez',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/iqfareez/app_waktu_solat_malaysia',
-              },
+                label: 'Changelog',
+                href: 'https://github.com/iqfareez/app_waktu_solat_malaysia/wiki/Changelog',
+              }
             ],
           },
         ],
-        copyright: `Copyright © 2022 Malaysia Prayer Time by iqfareez`,
+        copyright: '<div>Copyright © 2022 <a style="color: #24daaf" href="https://iqfareez.com">Muhammad Fareez</a></div>',
       },
       prism: {
         theme: lightCodeTheme,
