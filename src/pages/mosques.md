@@ -2,46 +2,48 @@
 
 Following images is used in [full prayer timetable](/docs/features/full-timetable) page.
 
+Images are fetched from [mpt-server](https://mpt-server.vercel.app).
+
 ## Selangor - IIUM SHAS Mosque
-![SEL](@site/static/mpt-cover/SEL-UIA.webp)
+![SGR](https://mpt-server.vercel.app/api/mosque/SGR)
 
 ## WP KL/Putrajaya - Masjid Putra
-![WPKL](@site/static/mpt-cover/WPKL-Putra.jpeg)
+![WLY01](https://mpt-server.vercel.app/api/mosque/WLY01)
 
 ## Negeri Sembilan - Masjid Sri Sendayan
-![NGS](@site/static/mpt-cover/NGS-Sendayan.jpg)
+![NGS](https://mpt-server.vercel.app/api/mosque/NGS)
 
 ## Kelantan - Masjid Al-Ismaili
-![KTN](@site/static/mpt-cover/KTN-alismaili.jpg)
+![KTN](https://mpt-server.vercel.app/api/mosque/KTN)
 
 ## Terengganu - Masjid Kristal
-![TRG](@site/static/mpt-cover/TRG-Kristal.jpg)
+![TRG](https://mpt-server.vercel.app/api/mosque/TRG)
 
 ## Perlis - Masjid Al-Hussain
-![PLS](@site/static/mpt-cover/PLS-alhussain.jpg)
+![PLS](https://mpt-server.vercel.app/api/mosque/PLS)
 
 ## Sarawak - Masjid Terapung
-![SWK](@site/static/mpt-cover/SWK-Terapung.webp)
+![SWK](https://mpt-server.vercel.app/api/mosque/SWK)
 
 ## Sabah - Masjid Bdraya Kota Kinabalu
-![SBH](@site/static/mpt-cover/SBH-KK.jpg)
+![SBH](https://mpt-server.vercel.app/api/mosque/SBH)
 
 ## WP Labuan - Masjid Jamek An-Nur
-![WPLABU](@site/static/mpt-cover/WPLABU-AnNur.jpg)
+![WLY02](https://mpt-server.vercel.app/api/mosque/WLY02)
 
 ## Johor - Masjid Sultan Iskandar
-![JHR](@site/static/mpt-cover/JHR-SultanIskandar.jpeg)
+![JHR](https://mpt-server.vercel.app/api/mosque/JHR)
 
 ## Kedah - Masjid Zahir
-![KDH](@site/static/mpt-cover/KDH-Zahir.jpg)
+![KDH](https://mpt-server.vercel.app/api/mosque/KDH)
 
 ## Pahang - Masjid Sultan Ahmad
-![PHG](@site/static/mpt-cover/PHG-Shas.jpg)
+![PHG](https://mpt-server.vercel.app/api/mosque/PHG)
 
 ## Perak - Masjid Ubudiah
-![PRK](@site/static/mpt-cover/PRK-Ubudiah.jpg)
+![PRK](https://mpt-server.vercel.app/api/mosque/PRK)
 
 ## Melaka - Masjid Selat Melaka
-![MLK](@site/static/mpt-cover/MLK-SelatMelaka.jpg)
+![MLK](https://mpt-server.vercel.app/api/mosque/MLK)
 
 
