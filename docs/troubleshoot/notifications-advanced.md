@@ -12,4 +12,4 @@ By default, the app will schedule the notification until the end of the month. T
 
 ## Force rescheduling notification
 
-Sometimes, the notification just don't want to show up on the devices. This option will
+Sometimes, the notification scheduled at the wrong time or, just don't want to show up on the devices at all. This option will cancel all pending notifications, and rescheduled it back. Use this whenever the app notification starts acting funny.
