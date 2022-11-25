@@ -16,5 +16,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npx vercel --token ${{ env.VERCEL_TOKEN }} >> $GITHUB_STEP_SUMMARY
+      
+      - name: Install Vercel
+        run: npm i -g vercel
+
+      - name: Deploy to preview deployment
+        run: vercel --token ${{ env.VERCEL_TOKEN }} >> $GITHUB_STEP_SUMMARY
 
