@@ -4,10 +4,10 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ### Installation
 
-Using Node 16.x
+Using Node 18.x
 
 ```
-$ npm install --legacy-peer-deps
+$ npm install
 ```
 
 ### Local Development
