@@ -106,11 +106,15 @@ const config = {
               {
                 label: 'Changelog',
                 href: 'https://github.com/iqfareez/app_waktu_solat_malaysia/wiki/Changelog',
+              },
+              {
+                label: 'Devlogs',
+                href: 'https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODcyMTc0ODcwODEzNjM1',
               }
             ],
           },
         ],
-        copyright: '<div>Copyright © 2022 <a style="color: #24daaf" href="https://iqfareez.com">Muhammad Fareez</a></div>',
+        copyright: '<div>Copyright © 2023 <a style="color: #24daaf" href="https://iqfareez.com">Muhammad Fareez</a></div>',
       },
       prism: {
         theme: lightCodeTheme,
