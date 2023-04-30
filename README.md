@@ -6,17 +6,16 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 Using Node 18.x
 
-```
-$ npm install
-```
-
 ### Local Development
 
 ```
+$ npm install
 $ npm start
 ```
 
-### GitHub Codespaces
+### Cloud Development
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mptwaktusolat/mpt-website)
 
 ```
 $ npm start -- --host 0.0.0.0
@@ -34,16 +33,8 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Using SSH:
+[![deploy live website](https://github.com/mptwaktusolat/mpt-website/actions/workflows/vercel-prod.yml/badge.svg)](https://github.com/mptwaktusolat/mpt-website/actions/workflows/vercel-prod.yml)
 
-```
-$ USE_SSH=true npm deploy
-```
+The site is deployed to [Vercel](https://vercel.com/dashboard).
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> npm deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Visit https://mywaktusolat.vercel.app
