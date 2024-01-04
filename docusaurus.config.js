@@ -43,7 +43,7 @@ const config = {
                 // Plugin Options for loading OpenAPI files
                 specs: [
                     {
-                        spec: 'https://raw.githubusercontent.com/mptwaktusolat/open-api-spec/main/mpt-server-api.yaml',
+                        spec: 'https://raw.githubusercontent.com/mptwaktusolat/open-api-spec/3b5c28ff434415993afec2bf4a78df5ca92df571/mpt-server-api.yaml',
                         route: '/api/',
                     },
                 ],
