@@ -13,7 +13,7 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'iqfareez', // Usually your GitHub org/user name.
+    organizationName: 'mptwaktusolat', // Usually your GitHub org/user name.
     projectName: 'app_waktu_solat_malaysia', // Usually your repo name.
     presets: [
         [
@@ -22,15 +22,7 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
-                    // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
-                // blog: {
-                //   showReadingTime: true,
-                //   // Please change this to your repo.
-                //   editUrl:
-                //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-                // },
                 blog: false,
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -66,7 +58,7 @@ const config = {
                         position: 'right',
                     },
                     {
-                        href: 'https://github.com/iqfareez/app_waktu_solat_malaysia',
+                        href: 'https://github.com/mptwaktusolat/app_waktu_solat_malaysia',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -93,24 +85,11 @@ const config = {
                         ],
                     },
                     {
-                        title: 'Legalese',
-                        items: [
-                            {
-                                label: 'Privacy Policy',
-                                to: '/privacy-policy',
-                            },
-                            {
-                                label: 'Terms & Conditions',
-                                to: '/terms-and-conditions',
-                            },
-                        ],
-                    },
-                    {
                         title: 'More',
                         items: [
                             {
                                 label: 'Changelog',
-                                href: 'https://github.com/iqfareez/app_waktu_solat_malaysia/wiki/Changelog',
+                                href: 'https://waktusolat.app/en/changelog',
                             },
                             {
                                 label: 'Devlogs',
@@ -119,7 +98,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: '<div>Copyright © 2023 <a style="color: #24daaf" href="https://iqfareez.com">Muhammad Fareez</a></div>',
+                copyright: '<div>Copyright © 2024 <a style="color: #24daaf" href="https://waktusolat.app">Waktu Solat Malaysia Project</a></div>',
             },
             prism: {
                 theme: lightCodeTheme,
