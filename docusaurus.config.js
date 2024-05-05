@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Malaysia Prayer Time App',
     tagline: 'Modern and easy to use',
-    url: 'https://mywaktusolat.vercel.app',
+    url: 'https://help.waktusolat.app/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',

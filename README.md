@@ -1,24 +1,18 @@
 # MPT Website
 
+Original landing page for **Waktu Solat project** before https://waktusolat.app exists. I'm keeping this site as a MPT knowledgebase/support.
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+### Get Started
 
 Using Node 18.x
 
-### Local Development
-
-```
-$ npm install
-$ npm start
-```
-
-### Cloud Development
-
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mptwaktusolat/mpt-website)
 
-```
-$ npm start -- --host 0.0.0.0
+```shell
+$ npm install
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -37,4 +31,4 @@ This command generates static content into the `build` directory and can be serv
 
 The site is deployed to [Vercel](https://vercel.com/dashboard).
 
-Visit https://mywaktusolat.vercel.app
+Visit https://help.waktusolat.app/
