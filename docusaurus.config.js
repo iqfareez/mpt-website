@@ -37,23 +37,6 @@ const config = {
                 },
             }),
         ],
-        [
-            'redocusaurus',
-            {
-                // Plugin Options for loading OpenAPI files
-                specs: [
-                    {
-                        spec: 'https://raw.githubusercontent.com/mptwaktusolat/open-api-spec/3b5c28ff434415993afec2bf4a78df5ca92df571/mpt-server-api.yaml',
-                        route: '/api/',
-                    },
-                ],
-                // Theme Options for modifying how redoc renders them
-                theme: {
-                    // Change with your site colors
-                    primaryColor: '#2e8555',
-                },
-            },
-        ],
     ],
 
     themeConfig:
@@ -73,7 +56,7 @@ const config = {
                         label: 'Docs',
                     },
                     {
-                        to: 'api',
+                        href : 'https://api.waktusolat.app/docs',
                         label: 'API',
                         position: 'left',
                     },
